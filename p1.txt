@@ -1,0 +1,13 @@
+cat>>p2.txt
+git add p1.txt
+git add p2.txt
+git commit -m ""[DCommited[D[Dted"
+git status
+
+
+
+
+clear
+
+
+
